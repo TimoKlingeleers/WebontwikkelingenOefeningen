@@ -1,0 +1,21 @@
+/* OPMAAK VOOR DE VOLLEDIGE PAGINA */
+body {
+    font-family: arial;
+    background: silver:
+}
+
+header{
+    background: purple;
+}
+
+nav {
+    background: blue;
+}
+
+article {
+    background: yellow;
+}
+
+footer {
+    background: red;
+}

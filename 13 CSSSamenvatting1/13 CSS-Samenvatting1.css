@@ -1,0 +1,39 @@
+body {
+    background: silver;
+}
+
+header{
+    background: red;
+    height: 50px;
+    color: white;
+}
+
+nav {
+    background: green;
+    float: left;
+    width: 100px;
+    height: 400px;
+    color: white;
+    margin-top: 20px;
+}
+
+main {
+    background: yellow;
+    height: 400px;
+    
+}
+
+article {
+    font-family: Verdana;
+    background: white;
+    margin-left: 200px;
+    margin-right: 50px;
+    
+}
+
+footer {
+    background: blue;
+    clear: both;
+    height: 20px;
+    color: white;
+}
